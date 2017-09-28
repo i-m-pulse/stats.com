@@ -15,11 +15,11 @@ Refer STATS documentation here: http://developer.stats.com/page
 3. Edit the config.py with your API Key and Secret.
 
 4. Methods to use:
-  - Use get_events method to get all events between the specified dates
-  - Use get_event_details method to get the full JSON response from stats.com events API
-  - Use extract_event_details method to get current score, play by play events, team information from events API
+    - Use get_events method to get all events between the specified dates
+    - Use get_event_details method to get the full JSON response from stats.com events API
+    - Use extract_event_details method to get current score, play by play events, team information from events API
 
-7. Try it!
+5. Try it!
 ``` python run_nfl.py ``` for NFL
 ``` python run_epl.py ``` for EPL
 
