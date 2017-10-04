@@ -1,5 +1,5 @@
 # stats.com events library
-Get current scores &amp; events for NFL &amp; EPL matches from stats.com
+Get current scores and play-by-play events (eg: touchdown, goals etc.) for NFL &amp; EPL matches from stats.com
 
 ## Overview
 Script to fetch match details like current score, play by play event, player & team information for NFL & EPL leagues from stats.com Events API. 
